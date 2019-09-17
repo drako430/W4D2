@@ -1,0 +1,6 @@
+Started GET "/" for ::1 at 2019-09-16 19:00:29 -0700
+
+PG::ConnectionBad - FATAL:  database "n99_cats_development" does not exist
+:
+
+Started POST "/__better_errors/ee844a067cc638cb/variables" for ::1 at 2019-09-16 19:00:30 -0700
